@@ -48,6 +48,6 @@ Execution:
 
         Create customers/agents and login to book ticket.
 
-        Multiple login sessions are allowed only for agent accounts. Proper locking mechanism was implemented.
+Note : Multiple login sessions are allowed only for agent accounts. Proper locking mechanism was implemented.
 
 
