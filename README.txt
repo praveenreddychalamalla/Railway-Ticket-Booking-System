@@ -7,7 +7,8 @@
 This project uses tcp connection to communicate between client and server.
 
 client.c        : This is client side connection file which represents the client operations.
-server.c        : This is server side connection file which fetches data from client.c and perform subsequent operations on it and  communicate the response to client.
+server.c        : This is server side connection file which fetches data from client.c, perform subsequent operations on it 
+                  and communicate the response to client.
 
 clientUtils.h   : This file contains all client side functions. This is included in client.c as header file.
 serverUtils.h   : This file contains all server side functions. This is included in server.c as header file.
