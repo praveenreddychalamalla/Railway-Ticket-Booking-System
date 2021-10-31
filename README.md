@@ -20,6 +20,7 @@ account_id.dat  : This file contains the last alloted account_id to the user. Th
 acc_id.c        : This creates the account_id.dat file and initialize the account_id to 1.
 
 bookings.dat    : This file contains all the booking logs.
+
 trains.dat      : This file maintains information related to all trains.
 
 Port No. used   : 9586 (you can change the port of server and client)
