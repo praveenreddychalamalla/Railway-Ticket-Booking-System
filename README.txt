@@ -1,6 +1,5 @@
-/* 
- * Railway Ticket Booking System
- * @author Praveen Reddy MT2021033 
+#Railway Ticket Booking System
+/* @author Praveen Reddy MT2021033 
  * @date : 2021-10-30
  */
 
