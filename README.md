@@ -34,19 +34,19 @@ Port No. used   : 9586 (you can change the port of server and client)
 Execution
 
 
-run the server:
-    >./server.out
+        run the server:
+            >./server.out
 
-run the client:
-    >./client.out
+        run the client:
+            >./client.out
 
-First sign up and create one admin account. 
-The secret pin for admin account is "secret".
+        First sign up and create one admin account. 
+        The secret pin for admin account is "secret".
 
-Now login into admin account and add trains.
+        Now login into admin account and add trains.
 
-Create customers/agents and login to book ticket.
+        Create customers/agents and login to book ticket.
 
-Multiple login sessions are allowed only for agent accounts. Proper locking mechanism was implemented.
+        Multiple login sessions are allowed only for agent accounts. Proper locking mechanism was implemented.
 
 
