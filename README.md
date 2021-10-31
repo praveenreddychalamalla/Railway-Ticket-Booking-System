@@ -13,6 +13,7 @@ server.c        : This is server side connection file which fetches data from cl
                   and communicate the response to client.
 
 clientUtils.h   : This file contains all client side functions. This is included in client.c as header file.
+
 serverUtils.h   : This file contains all server side functions. This is included in server.c as header file.
 
 structures.h    : This file contains all strutures for user(all types), train and booking
@@ -28,6 +29,7 @@ bookings.dat    : This file contains all the booking logs.
 trains.dat      : This file maintains information related to all trains.
 
 Port No. used   : 9586 (you can change the port of server and client)
+
 
 
 Execution:
