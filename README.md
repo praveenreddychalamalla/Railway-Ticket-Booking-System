@@ -1,8 +1,8 @@
 # Railway Ticket Booking System
 
-/* @author Praveen Reddy MT2021033 
- * @date : 2021-10-30
- */
+@author Praveen Reddy MT2021033 
+@date : 2021-10-30
+
 
 This project uses tcp connection to communicate between client and server.
 
